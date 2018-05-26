@@ -1,2 +1,5 @@
-# Dataset (not allowed by GitHub for its size) #
 dataset.csv
+
+.ipynb_checkpoints/
+
+.~lock.dataset.csv#
